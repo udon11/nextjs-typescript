@@ -1,0 +1,33 @@
+{
+  "name": "nextjs-typescript",
+  "version": "1.0.0",
+  "description": "Next.js + TypeScript web application.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/udon11/nextjs-typescript.git"
+  },
+  "keywords": [
+    "next.js",
+    "react.js",
+    "typescript"
+  ],
+  "author": "udon11",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udon11/nextjs-typescript/issues"
+  },
+  "homepage": "https://github.com/udon11/nextjs-typescript#readme",
+  "dependencies": {
+    "@zeit/next-typescript": "^0.1.1",
+    "next": "^6.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "typescript": "^2.8.3"
+  }
+}
